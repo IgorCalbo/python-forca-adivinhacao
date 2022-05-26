@@ -1,3 +1,3 @@
 # python-jogos
 
-Dois jogos ( forca e adivinhação ) feitos em python para praticar.
+Alguns jogos feitos em python para praticar.
